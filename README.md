@@ -24,12 +24,12 @@ Antes de comenzar, asegúrate de tener instalados:
    > cd supermarket-list
 
 2. Instalar dependencias:
-   npm install
+   > npm install
 o si usas yarn
-yarn install
+   > yarn install
 
 3. Iniciar Expo:
-   expo start
+   > npm expo start
 
 Esto abrirá Expo Dev Tools en el navegador. Desde allí puedes:
 
