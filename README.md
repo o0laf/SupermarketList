@@ -29,7 +29,7 @@ o si usas yarn
    > yarn install
 
 3. Iniciar Expo:
-   > npm expo start
+   > npx expo start
 
 Esto abrirá Expo Dev Tools en el navegador. Desde allí puedes:
 
